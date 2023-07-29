@@ -1,0 +1,34 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+.rating {
+  position: relative;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin-top: 40vh;
+  font-size: 100px;
+  cursor: pointer;
+}
+.star {
+  color: #8d8d8d;
+  user-select: none;
+}
+
+.rate1 {
+  color: #ff0000;
+}
+.rate2 {
+  color: #ff5500;
+}
+.rate3 {
+  color: #eaff00;
+}
+
+.rate4 {
+  color: #94ff28;
+}
+.rate5 {
+  color: #00ff04;
+}
